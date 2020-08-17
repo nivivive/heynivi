@@ -1,0 +1,21 @@
+# Site settings
+title: nivi jayasekar
+alt_title: nivi
+header-img: img/home-bg.jpg
+email: jnive05@gmail.com
+copyright_name: Nivi Jayasekar
+baseurl: ""
+url: "https://heynivi.com"
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+google_tracking_id: UA-85770658-1
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
