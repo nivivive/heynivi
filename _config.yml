@@ -17,5 +17,9 @@ highlighter: rouge
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
 
 gems: [jekyll-paginate, jekyll-feed]
