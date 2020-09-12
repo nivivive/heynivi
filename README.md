@@ -2,12 +2,12 @@
 
 ## Setup
 - Jekyll environment
-jekyll serve --watch
+bundle exec jekyll serve --watch
 - Grunt
 grunt watch
 
 ## Deploy
-surge _site/
+git push origin master
 
 ## Todo
 V1:
