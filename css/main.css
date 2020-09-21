@@ -76,7 +76,7 @@ a:hover {
 input[type=text] {
   padding: 10px 12px;
   border: #fff 1px solid;
-  border-radius: 3px;
+  border-radius: 5px;
   font-size: 1em;
   -webkit-box-shadow: 0 3px 5px 0 rgba(0,0,0,0.1);
   -moz-box-shadow: 0 3px 5px 0 rgba(0,0,0,0.1);
@@ -92,7 +92,7 @@ button {
   padding: 10px 12px;
   margin: 0 10px;
   border: 0;
-  border-radius: 3px;
+  border-radius: 5px;
   font-size: 1em;
   background: #800020;
   color: #fff;
@@ -114,6 +114,47 @@ input[type=text]:focus, button:focus {
   -moz-box-shadow: 0 30px 50px 0 rgba(0,0,0,0.1);
 }
 
+.article-snippet {
+  border: 1px solid #e6e6e6;
+  border-radius: 5px;
+  padding: 23px;
+  -webkit-box-shadow: 0 3px 5px 0 #e6e6e6;
+  -moz-box-shadow: 0 3px 5px 0 #e6e6e6;
+  box-shadow: 0 3px 5px #e6e6e6;
+  -webkit-transition: all .3s linear;
+  -moz-transition: all .3s linear;
+  -ms-transition: all .3s linear;
+  -o-transition: all .3s linear;
+  transition: all .3s linear;
+}
+
+.article-snippet:hover {
+  -webkit-box-shadow: 0 30px 50px 0 rgba(0,0,0,.1);
+  -moz-box-shadow: 0 30px 50px 0 rgba(0,0,0,.1);
+  box-shadow: 0 30px 50px 0 rgba(0,0,0,.1);
+}
+
+.article-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #800020;
+}
+
+.article-title h4 {
+  margin: 0;
+  font-size: 1.3em;
+}
+
+.post-title {
+  margin-bottom: 0;
+}
+
+article p {
+  color: #404040;
+}
+
 .products {
   margin: 20px;
 }
@@ -131,9 +172,9 @@ input[type=text]:focus, button:focus {
   -ms-transition: all .3s linear;
   -o-transition: all .3s linear;
   transition: all .3s linear;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
   min-height: 8em;
   min-width: 16em;
   display: flex;
@@ -162,6 +203,11 @@ input[type=text]:focus, button:focus {
   width: 100%;
   margin-top: 16px;
   margin-bottom: 16px;
+}
+
+.meta {
+  font-size: 0.8em;
+  color: #757575;
 }
 
 .footer {

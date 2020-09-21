@@ -6,6 +6,7 @@ email: jnive05@gmail.com
 copyright_name: Nivi Jayasekar
 baseurl: ""
 url: "https://heynivi.com"
+excerpt_separator: <!--more-->
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
