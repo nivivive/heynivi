@@ -1,18 +1,22 @@
 <!-- Footer -->
 <div class="footer">
   <div class="products">
-    <div class="product-item">
-      <div class="product-title">Join the digital detox challenge</div>
-      <div class="product-details">Starting Oct 1</div>
-    </div>
+    {% for product in site.products %}
+    <a class="product-item" href="{{product.url}}">
+      <div class="product-title">{{product.title}}</div>
+      <div class="product-details">{{product.details}}</div>
+    </a>
+    {% endfor %}
   </div>
   <div class="footer-item">
     Get my research in your inbox
   </div>
-  <div class="footer-item">
-    <input type="text" placeholder="Your email" />
-    <button type="submit">Simplify your life</button>
-  </div>
+  <form class="footer-item" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=simplify-with-nivi', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+    <input type="text" placeholder="Your email" name="email"/>
+    <input type="hidden" value="simplify-with-nivi" name="uri"/>
+    <input type="hidden" name="loc" value="en_US"/>
+    <input type="submit" value="Subscribe" />
+  </form>
   <div class="footer-item">
     Thanks for visiting!
     | &copy; {{ site.copyright_name }} {{ site.time | date: '%Y' }}

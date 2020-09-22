@@ -1,37 +1,15 @@
 <!-- Navigation -->
-<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="{{ site.baseurl }}/">
-              {{ site.alt_title }}
-              {% if page.path contains "_posts" %}
-                <span class="navbar-title">writes</span>
-              {% elsif page.title %}
-                <span class="navbar-title">{{page.title}}</span>
-              {% endif %}
-            </a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                {% for page in site.pages %}{% if page.title %}
-                  {% if page.url != '/404.html' %}
-                          <li>
-                              <a class="wobble" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                          </li>
-                  {% endif %}
-                {% endif %}{% endfor %}
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container -->
-</nav>
+<header class="header">
+  <a href="/" class="logo p-2">Nivi Jayasekar</a>
+  <input class="menu-btn" type="checkbox" id="menu-btn" />
+  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+  <ul class="menu">
+    {% for item in site.pages %}
+      {% if item.title and item.title == page.title %}
+      <li class="active"><a class="active" href="{{ item.url | prepend: site.baseurl }}">{{item.title}}</a>
+      {% elsif item.title %}
+      <li><a href="{{ item.url | prepend: site.baseurl }}">{{item.title}}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</header>
