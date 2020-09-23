@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Quarantine your screen time addiction"
-permalink: '/quarantine-your-screen-time-addiction'
+title: "Quarantine your screen time"
+permalink: '/quarantine-your-screen-time'
 ---
 
 It seems like when the pandemic started, the world went fully digital.
