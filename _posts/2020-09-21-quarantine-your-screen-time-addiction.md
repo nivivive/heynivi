@@ -107,4 +107,4 @@ One note:
 # Next, Targeting
 I'm planning to spotlight a couple of apps like Netflix and Facebook in the upcoming articles in the Designed to Addict series. As most apps are trying to make money, it's no surprise that they want you on their app more. I will highlight specific parts of each app and in essence, teach you to redesign your Netflix (or insert your vice) addiction.
 
-P.S. If you want a deep dive on a specific app or other feedback, then please [tweet](https://twitter.com/nivivive/status/) it to me!
+P.S. If you want a deep dive on a specific app or other feedback, then please [tweet](https://twitter.com/nivivive/status/1308856856689995777) it to me!
