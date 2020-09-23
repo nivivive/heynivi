@@ -47,7 +47,7 @@ h1 {
 
 h2 {
   width: 100%;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-size: 1.3em;
   font-weight: 500;
   color: #000;
@@ -64,7 +64,7 @@ h3 {
 a {
   color: #404040;
   text-decoration: none;
-  border-bottom: 2px solid #800020;
+  border-bottom: 2px solid #66b2b2;
   -webkit-transition: all .3s linear;
   -moz-transition: all .3s linear;
   -ms-transition: all .3s linear;
@@ -73,7 +73,7 @@ a {
 }
 
 a:hover {
-  color: #800020;
+  color: #66b2b2;
 }
 
 input[type=text] {
@@ -97,7 +97,7 @@ input[type=submit] {
   border: 0;
   border-radius: 5px;
   font-size: 1em;
-  background: #800020;
+  background: #66b2b2;
   color: #fff;
   cursor: pointer;
   -webkit-box-shadow: 0 3px 5px 0 rgba(0,0,0,0.1);
@@ -151,7 +151,7 @@ input[type=text]:focus, input[type=submit]:focus {
 .header li.active a,
 .header .menu-btn:hover {
   background-color: #f4f4f4;
-  border-bottom: 2px solid #800020;
+  border-bottom: 2px solid #66b2b2;
 }
 
 .header .logo {
@@ -260,12 +260,15 @@ input[type=text]:focus, input[type=submit]:focus {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 2px solid #800020;
 }
 
 .article-title h4 {
   margin: 0;
   font-size: 1.3em;
+}
+
+.excerpt p:last-child::after {
+  content: '...';
 }
 
 .post-title {
@@ -343,6 +346,15 @@ article p {
   font-size: 14px;
   text-align: center;
   margin: 10px 0;
+}
+
+img.center {
+  margin: 0 auto;
+  display: block;
+}
+
+img.phone {
+  width: 300px;
 }
 
  /* 48em = 768px */
