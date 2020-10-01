@@ -105,6 +105,8 @@ One note:
 - If you're a designer or need color enabled for work, then just disable the "Color Filters" for work and then turn it back on when you're done. Alternatively, only do this for your phone.
 
 # P.S.
-I'm planning to spotlight a couple of apps like Netflix and Facebook in the upcoming articles in the Designed to Addict series. I will highlight specific parts of each app and in essence, teach you to redesign your **[insert your vice here]** digital addiction.
+Next up in the Designed to Addict series is [Redesign Your Netflix Addiction]({{ site.url }}/redesign-netflix).
+
+I'm planning to spotlight a couple more apps like Netflix and Facebook in the upcoming articles in the Designed to Addict series. I will highlight specific parts of each app and in essence, teach you to redesign your **[insert your vice here]** digital addiction.
 
 If you want a deep dive on a specific app or other feedback, then please [tweet](https://twitter.com/nivivive/status/1308856856689995777) it to me!

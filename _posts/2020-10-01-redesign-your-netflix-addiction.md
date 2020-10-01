@@ -2,6 +2,7 @@
 layout: post
 title: "Re-design your Netflix addiction"
 permalink: '/redesign-netflix'
+twitter: "https://twitter.com/nivivive/"
 ---
 
 You're stuck at home or exhausted after work. We know what that means...
@@ -136,7 +137,7 @@ There will be a dull moment or two in the middle of each episode. As soon as you
 
 A slightly better way to do this is to set a timer to end 10-15 min before the end of the episode and stop watching then. Don't worry -- Netflix will remember where you left off and let you pick it back up on another day.
 
-## Turn on [grayscale](https://heynivi.com/quarantine-your-screen-time#2-make-the-internet-less-rewarding)
+## Turn on [grayscale]({{site.url}}/quarantine-your-screen-time#2-make-the-internet-less-rewarding)
 For survival reasons, color is incredibly compelling to us humans. But you don't need Netflix for survival.
 
 <iframe src="https://giphy.com/embed/i0lZAPw40F212" width="480" height="193" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
@@ -146,6 +147,6 @@ So, take color away from Netflix. That might kill most of the value you find in 
 <iframe src="https://giphy.com/embed/M28rUlcjueKUE" width="480" height="177" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 # P.S.
-If you try out any of these strategies, let [me](https://twitter.com/nivivive) know how it goes!
+If you try out any of these strategies, let [me]({{page.twitter}}) know how it goes!
 
-Next week, I'm going to re-design TikTok. [What other vices do you want broken down for you?](https://twitter.com/nivivive)
+Next week, I'm going to re-design TikTok. [What other vices do you want broken down for you?]({{page.twitter}})
