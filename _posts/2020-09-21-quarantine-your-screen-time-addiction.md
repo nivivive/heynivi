@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quarantine your screen time"
+title: "Quarantine your screen time 🙅🏻‍♀️"
 permalink: '/quarantine-your-screen-time'
 ---
 
@@ -12,7 +12,7 @@ And some of this was great! People got creative. A lot of banana bread was made 
 
 But for a lot of others, they’ve noticed work and not work life start to insidiously blur and their screen time skyrocket as they spent many, many more hours just wasting time on the Internet. 
 
-If that's you, you're not alone. You, me, and 75% of<!--more--> [US households](https://www.thesun.co.uk/news/11878327/american-families-need-digital-detox/), and [countless](https://www.adnews.com.au/news/the-coronavirus-lockdown-is-forcing-us-to-view-screen-time-differently) [others](https://www.ofcom.org.uk/about-ofcom/latest/features-and-news/lockdown-leads-to-surge-in-tv-screen-time-and-streaming) [worldwide](https://www.google.com/search?q=pandemic+digital+addictions&sxsrf=ALeKk02w8TCMLsUu1AzFOh9ZUdaf3eTTgg:1600882670317&source=lnms&sa=X&ved=0ahUKEwjvk5DX6P_rAhWXtZ4KHdszCwMQ_AUIDigA&biw=720&bih=771&dpr=1) desperately want a digital detox but are at a loss to do during quarantine when there's so many reasons to be online.
+If that's you, you're not alone. You, me, and 75% of<!--more--> [US households](https://www.thesun.co.uk/news/11878327/american-families-need-digital-detox/), and [countless](https://www.adnews.com.au/news/the-coronavirus-lockdown-is-forcing-us-to-view-screen-time-differently) [others](https://www.ofcom.org.uk/about-ofcom/latest/features-and-news/lockdown-leads-to-surge-in-tv-screen-time-and-streaming) [worldwide](https://www.google.com/search?q=pandemic+digital+addictions&sxsrf=ALeKk02w8TCMLsUu1AzFOh9ZUdaf3eTTgg:1600882670317&source=lnms&sa=X&ved=0ahUKEwjvk5DX6P_rAhWXtZ4KHdszCwMQ_AUIDigA&biw=720&bih=771&dpr=1) desperately want a digital detox but are at a loss to do so during quarantine when there's so many reasons to be online.
 
 # Problem
 The problem with the Internet is that it's not just one thing. There's [more than a billion](https://www.internetlivestats.com/total-number-of-websites/) different apps and websites on your phone, laptop, and any other digital device you own.
@@ -104,7 +104,7 @@ If you're using an iPhone, then go to Settings -> Accessibility -> Display & Tex
 One note:
 - If you're a designer or need color enabled for work, then just disable the "Color Filters" for work and then turn it back on when you're done. Alternatively, only do this for your phone.
 
-# Next, Targeting
-I'm planning to spotlight a couple of apps like Netflix and Facebook in the upcoming articles in the Designed to Addict series. As most apps are trying to make money, it's no surprise that they want you on their app more. I will highlight specific parts of each app and in essence, teach you to redesign your Netflix (or insert your vice) addiction.
+# P.S.
+I'm planning to spotlight a couple of apps like Netflix and Facebook in the upcoming articles in the Designed to Addict series. I will highlight specific parts of each app and in essence, teach you to redesign your **[insert your vice here]** digital addiction.
 
-P.S. If you want a deep dive on a specific app or other feedback, then please [tweet](https://twitter.com/nivivive/status/1308856856689995777) it to me!
+If you want a deep dive on a specific app or other feedback, then please [tweet](https://twitter.com/nivivive/status/1308856856689995777) it to me!
