@@ -2,7 +2,7 @@
 layout: post
 title: "Re-design your Netflix addiction"
 permalink: '/redesign-netflix'
-twitter: "https://twitter.com/nivivive/"
+twitter: "https://twitter.com/nivivive/status/1311725254176202753"
 ---
 
 You're stuck at home or exhausted after work. We know what that means...

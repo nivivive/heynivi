@@ -1,7 +1,7 @@
 ---
 layout: product
 title: 'Redesign your digital habits'
-details: '30-day challenge starting Oct 1'
+details: '30-day challenge starting Oct 15'
 ---
 
 # If you are
@@ -22,7 +22,7 @@ You'll have access to:
 - Access to a group chat with other challenge participants
 
 # Next steps
-If you're interested in joining our group starting Oct 1, then you can signup by sending me $3 on [venmo](https://venmo.com/nivivive) with a note saying "{{ page.title }} - *Your name*, *Your email*".
+If you're interested in joining our group starting Oct 15, then you can signup by sending me $3 on [venmo](https://venmo.com/nivivive) with a note saying "{{ page.title }} - *Your name*, *Your email*".
 
 P.S. Make the note private unless you want random people emailing you!
 
