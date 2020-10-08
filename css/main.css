@@ -269,10 +269,6 @@ input[type=text]:focus, input[type=submit]:focus {
   font-size: 1.3em;
 }
 
-.excerpt p:last-child::after {
-  content: '...';
-}
-
 .post-title {
   margin-bottom: 0;
 }

@@ -1,0 +1,121 @@
+---
+layout: post
+title: "Re-design your TikTok addiction"
+permalink: '/redesign-tiktok'
+twitter: "https://twitter.com/nivivive/"
+---
+![Tiktok addiction](https://www.eastcoastdaily.in/wp-content/uploads/2019/06/65172739_854746971565114_8444727666187173888_n-390x220.jpg){: .center }
+
+<!--more-->
+
+So, a friend of mine downloaded TikTok after he heard the news that [Trump was going to ban it from America](https://www.cnbc.com/2020/07/07/us-looking-at-banning-tiktok-and-chinese-social-media-apps-pompeo.html?mod=djemCMOToday). He knew it was addictive and that's why he hadn't downloaded it when everyone else did. But, if Trump was going to ban it anyways, then he wanted to check out what the hype was all about before it was banned. And on the off chance that he actually got addicted to it, he'd be free of the addiction once the ban was in place. Win-win, right?
+
+Unfortunately or fortuntately, depending on your point of view, it's still available in the app stores months later. And it's not quite clear *what* exactly *will* happen. [An American company might buy it](https://www.wsj.com/articles/microsoft-drops-out-of-bidding-for-tiktoks-u-s-operations-11600039821), or [the Supreme Court might say that's illegal](https://www.theguardian.com/technology/2020/sep/28/us-judge-temporarily-blocks-trump-order-banning-tiktok-app-store-downloads), or one of the [TikTok clones](https://www.theverge.com/21356971/tiktok-alternatives-instagram-reels-byte-triller-zynn-ban) might succeed in copying TikTok's addictive discovery algorithm.
+
+The more important question is, in short of your government **literally** banning Tik Tok for you (to be fair, this [did happen in India](https://www.republicworld.com/technology-news/apps/how-many-chinese-apps-banned-in-india-till-now-see-the-full-list.html)), what can you actually do about this addiction? How can you re-design your TikTok experience so that you are more productive and getting more value for your time?
+
+# Replace the triggers to use TikTok
+## Disable the notifications
+You don't really need any notifications to go on TikTok, especially if you're addicted. You can disable them by going to Me->...->Push notifications.
+
+### Easy option 
+At the very least, make sure that the notifications for discovering new content are disabled (everything under Video updates, Live, and Other). That way you're only going on TikTok when you want to, not when the app tells you to.
+
+![Disable new content TikTok notifications](img/tt2.png){: .center .phone }
+
+### Hard-core option
+Disable all of them.
+
+![Disable all TikTok notifications](https://i.imgflip.com/4huttg.jpg){: .center }
+
+## Hide or delete TikTok app
+Don't let TikTok be the first thing you see when you go to your phone.
+
+Hide the TikTok app in the last page of your last app folder on your phone.
+
+Or delete the app so that you have to download it every time you want to use it.
+
+## Leave your phone behind
+Do you find yourself automatically reaching for your phone whenever you're bored? Me too.
+
+Try leaving your phone behind if you're going to another room.
+
+It'll create a little space between your boredom and the routine of grabbing the phone and going on TikTok for hours. And that space will let you be more mindful of going on TikTok. If you really need your phone later, you can always go back and grab it then.
+
+# Satisfy your cravings elsewhere
+There are two main reasons why people go to Tik Tok today: (1) do fun things with your friends (connection with your community) and (2) check out the bizarre or interesting things that strangers are doing and interact with them (connection with strangers/broader world).
+
+Luckily, both of these cravings can be satisfied outside of TikTok as well. If you doubt me, here are some examples of how -- even during COVID...
+
+## Connect with your community outside of TikTok
+### In person
+Wear a mask and go to the park with your friends or family. You guys can go on a walk or hike together. Or bring your food with you and eat together. Or bring art supplies and draw together.
+
+As long as you wear a mask and maintain some social distance, you can still spend time together.
+
+### Virtually
+Try hosting a Zoom dance or karaoke party. They're really fun! ([Tips here](https://twitter.com/nivivive/status/1241135840140681221))
+
+![Zoom dance party](img/tt3.jpg){: .center}
+
+## Connect with the world outside of TikTok
+Start a new [hobby](https://www.futurelearn.com/info/blog/find-a-new-hobby-lockdown). Whether it's reading more or learning a new language, you can meet new people through the hobbies that you start and connect better that way.
+
+During COVID, there's a lot of people suffering from loneliness and anxiety. Try becoming penpal buddies with a high-risk individual. You can make their day and yours too.
+
+# Make your routine on TikTok more intentional
+## Slow your scroll
+TikTok is always learning about the best video to show to you. It's learning from your behavior on the platform from how long you're watching a video to how quickly you're scrolling to when you like what videos. And, it always has another video waiting for you when you're ready to move on from your current video.
+
+Infinite scrolling is easy and seductive, but not really satisfying.
+
+You probably keep scrolling because it's easy enough to do and there *might* be something potentially interesting if you keep scrolling. But, the more you scroll and watch, the less satisfying each new video will be [🧑‍🔬](https://www.investopedia.com/terms/l/lawofdiminishingutility.asp).
+
+You can change this by slowing your scroll.
+
+Instead of partially watching one video and move on to the next and the next. You can give each video you watch your full attention until it's done whether you like it or not. And, you'll be satisfied faster.
+
+![slow your scroll](img/tt5.gif){: .center }
+
+## Set a timer before using TikTok
+Decide how long you want to go on TikTok before going on it. Whether its 10 min or even an hour, by determining a time limit beforehand you're making it possible to control your habit. 
+
+Set a timer for that limit and then use TikTok with the intention that when the time is up, you will stop using using the app and turn off the timer. If you still want to keep browsing TikTok after the time is reached, then start the timer up again for another 10 min and repeat. 
+
+The key to this is to always keep using the timer. Mess around with the timer duration or keep turning off and resetting the timer again. But never snooze or stop using the timer while on TikTok.
+
+The timer creates a space between your use of the app and your decision to use it. By establishing the timer habit first, you can establish boundaries for the amount of time you spend on TikTok. From then onwards, you can work on reducing the time allowed per session or the # of sessions, a little bit at a time (e.g. reduce by 2 min every time).
+
+## Become more active on TikTok
+You might be asking...what? How does becoming more active on TikTok make me more productive? Let me explain.
+
+Today, if all your activity on TikTok is scrolling, watching, and liking whatever content you see, then you're a **passive** TikTok user.
+
+Instead I'm asking you to become an **active** TikTok user by creating your own videos or video responses.
+
+By creating your own content, you're getting three benefits that you weren't before:
+
+1) You're learning about content creation, video editing, and other valuable marketing skills in today's world.
+
+2) You're more active in the world outside of TikTok.
+
+*How many videos do you watch where the person is just talking to you? In contrast, how many videos have you seen where people are dancing, singing, or pulling stunts? Those things are just plain fun.*
+
+3) You're establishing dialogue.
+
+*Instead of passively consuming content, you're actually processing, learning, and sharing your own insights back. What better way is there to actually connect with people?*
+
+You can get started adopting a simple rule where every 3 videos you watch, you have to do a return video for one of them. It takes more effort, but that effort is valuable to you outside of TikTok as well. 
+
+# Change your reward metric
+Change your metric for what it means to have a friendship or positive interaction with someone. Instead of it being the # of likes or followers you get, have it be the depth of the interaction. Value the dialogue you have, time spent and lessons learned. These are harder to evaluate as they are intangible, but in the long run, they will also lead to a more enriching life.
+
+Try disabling Likes and New followers from TikTok in Me->...->Push notifications.
+![Disable likes and new followers](img/tt4.png){: .center }
+
+# P.S.
+If you try out any of these strategies, let [me]({{page.twitter}}) know how it goes!
+
+The two apps I did so far, Netflix and TikTok, were both fully digital experiences. Next week, I'm planning to tackle UberEats, a mixed online AND offline experience -- it'll be fun!
+
+What **other** vices do you want broken down for [you]({{page.twitter}})?

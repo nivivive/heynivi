@@ -19,6 +19,9 @@ description: <i class="fa fa-heart" aria-hidden="true"></i>
 {% endif %}
   <article class="article-snippet">
     <a href="{{ post.url | prepend: site.baseurl }}">
+      <div class="excerpt">
+      {{ post.excerpt }}
+      </div>
       <div class="article-title">
         <h4>
           {{ post.title }}
@@ -26,9 +29,6 @@ description: <i class="fa fa-heart" aria-hidden="true"></i>
         <div class="meta">
           {{ post.date | date: "%b %d, %Y" }} · {{ read-time }}
         </div>
-      </div>
-      <div class="excerpt">
-      {{ post.excerpt }}
       </div>
     </a>
   </article>

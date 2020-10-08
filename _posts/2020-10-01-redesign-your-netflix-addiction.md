@@ -5,6 +5,9 @@ permalink: '/redesign-netflix'
 twitter: "https://twitter.com/nivivive/status/1311725254176202753"
 ---
 
+![Netflix marathon](https://media.giphy.com/media/26BRsMORsLfckuBTa/giphy.gif){: .center }
+<!--more-->
+
 You're stuck at home or exhausted after work. We know what that means...
 
 You intended to just watch one episode of Friends or Away, but then you couldn't stop...
@@ -13,8 +16,6 @@ Before you knew it, you ended up watching the entire season.
 
 Sound familiar?
 
-![Netflix marathon](https://media.giphy.com/media/26BRsMORsLfckuBTa/giphy.gif){: .center }
-<!--more-->
 
 Chances are, *you're addicted to Netflix*. And Netflix wants that for you. But do you want that for yourself?
 
