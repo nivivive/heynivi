@@ -32,7 +32,6 @@ body {
   flex-direction: column;
   align-items: center;
   max-width: 675px;
-  margin: auto;
   padding: 1.5em;
   padding-top: 4em;
 }
@@ -349,6 +348,7 @@ article p {
 img.center {
   display: block;
   margin: 0 auto;
+  max-width: 300px;
 }
 
 iframe.giphy-embed {
@@ -372,5 +372,9 @@ iframe.giphy-embed {
    }
    .header .menu-icon {
      display: none;
+   }
+
+   .main {
+     margin: auto;
    }
  }
