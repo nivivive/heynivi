@@ -2,7 +2,7 @@
 layout: post
 title: "Re-design your TikTok addiction"
 permalink: '/redesign-tiktok'
-twitter: "https://twitter.com/nivivive/"
+twitter: "https://twitter.com/nivivive/status/1314608005137141760"
 ---
 ![Tiktok addiction](https://www.eastcoastdaily.in/wp-content/uploads/2019/06/65172739_854746971565114_8444727666187173888_n-390x220.jpg){: .center }
 
