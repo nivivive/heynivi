@@ -13,7 +13,7 @@ Going online used to be fun. But then the pandemic hit and everything went onlin
 
 Always being online is not only exhausting, but feels impossible to prevent.
 
-You work (or go to school) online. You socialize online. And, you watch your whole day go awway online.
+We work (or go to school) online. We socialize online. And, we watch all our free time vanish online as well.
 
 If you feel like some or a lot of those hours are just wasted on the Internet, then you're not alone.
 
@@ -21,7 +21,7 @@ You, me, and 75% of [US households](https://www.thesun.co.uk/news/11878327/ameri
 
 # The problem with Internet
 
-There are more than a [billion](https://www.internetlivestats.com/total-number-of-websites/) different apps and websites on your phone, laptop, and any other digital device you own.
+There are more than a [billion](https://www.internetlivestats.com/total-number-of-websites/) different apps and websites available on our phones, laptops, and other digital devices that we own.
 
 There's only one Internet, but infinite ways and reasons to use it. Some good and some bad.
 
@@ -30,19 +30,19 @@ But it is possible to untangle that and develop an un-addiction strategy -- one 
 ![too many apps](img/tt1.jpg){: .center }
 
 # An ~~addiction?~~ A **habit**!
-People don't just get addicted to cigarettes or drugs.
+We don't just get addicted to cigarettes or drugs.
 
-You can get addicted to pretty much anything. And it has to do with with how your brain works.
+We can get addicted to pretty much anything. And it has to do with with how our brains works.
 
 When you perform any behavior, your brain tracks when you did it (the cue), why you did it (the craving), the behavior itself (the routine), and the result of the behavior (the reward). Any behavior that successfully satisfies a craving results in the release of a chemical known as dopamine and increases the likelihood that you'll repeat this routine again. Over time, it becomes a [habit](https://amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B07D23CFGR) that you perform automatically with very little additional willpower needed. 
 
 This is normally a good thing.
 
-There are over [100 trillion](https://www.discovermagazine.com/health/numbers-the-nervous-system-from-268-mph-signals-to-trillions-of-synapses) different signals that your brain has to process.
+After all, there are over [100 trillion](https://www.discovermagazine.com/health/numbers-the-nervous-system-from-268-mph-signals-to-trillions-of-synapses) different signals that our brains have to process.
 
 ![100 trillion pieces of information for your brain](https://media.giphy.com/media/qKltgF7Aw515K/giphy.gif){: .center }
 
-And, if you had to process each one manually, then you might be dead already.
+And, if we had to process each one manually, then we'd be dead really fast.
 
 Just think about it...you'd have to remember to take a breath every 3 seconds, blink every four seconds, continuously pump blood to your heart, tell your mouth to excrete saliva and then your stomach to digest. And let's not forget only driving when there's a green signal or avoiding an incoming car and on and on.
 
@@ -66,7 +66,7 @@ We're going to first figure out what websites you go to today and why by using a
 
 After enabling this setting, if you open a new website, you can quickly decide:
 
-A. I need this website for [insert your reason] and allow it back in.
+A. I need this website for [a specific reason] and allow it back in.
 
 *This is a good Internet habit that you can leave as-is.*
 
@@ -74,9 +74,9 @@ B. I don't need this website and never let it back in.
 
 *This is a bad, but weakly reinforced Internet habit. You should be able to easily limit access to this website by just using this setting.*
 
-C. I don't need this website, but I want it anyways and allow it back in.
+C. I don't need this website, but I want it anyways for [a specific reason] and allow it back in.
 
-*This is a bad and strongly reinforced Internet habit. It will take more time and experimentation to get rid of. Note: I will be focusing on specific strategies for C in the upcoming articles.*
+*This is a bad and strongly reinforced Internet habit. It will take more time and experimentation to get rid of. For now, it's critical that to understand your reason for using this website. Note: I will be focusing on specific strategies for C in the upcoming articles.*
 
 ## On a Macbook
 Go to Settings -> Screen Time -> Content and Privacy OR search for "Content and privacy" in your Settings menu. Now, enable "Allowed websites only" under Content.
@@ -88,17 +88,17 @@ Go to Settings -> Screen Time -> Content & Privacy Restrictions. Enable "Content
 
 ![How to block 2]({{ site.url }}/img/block2.png){: .center .phone }
 
-After enabling this, the first time you try to open a website, you will see that the website is blocked. Think for a moment whether you want to use the website or not. If the answer is yet, then add it to your allowed list.
+After enabling this, the first time you try to open a website, you will see that the website is blocked. Think for a moment whether you want to use the website or not. If the answer is yes, then add it to your allowed list.
 
 ![How to block 3]({{ site.url }}/img/block3.jpeg){: .center .phone }
 
 If the answer is no, then you're all done! This minor check allowed you to get rid of a shallow Internet habit.
 
-If the answer is mixed -- you want to use it right now, but you don't think it's good in the long term --, then add it to your allowed list anyways. This is clearly a more deeply engrained Internet habit and we'll tackle it separately in the Targeting step.
+If the answer is mixed...as in, you want to use it right now, but you don't think it's good in the long term, then add it to your allowed list anyways. This is clearly a more deeply engrained Internet habit and we'll tackle it later in the upcoming articles.
 
 ## A couple of notes
 - On your Mac, it's going to ask you for your password every time.
-- On your MAC, it also sometimes just says the IP address (e.g. 127.0.0.1) instead of a specific website. 
+- On your Mac, it also sometimes just says the IP address (e.g. 127.0.0.1) instead of a specific website. 
 - If you're someone who needs to go to random websites for work, then you have a couple of options: only do this for your phone, briefly disable "Allowed websites only" for work, or add the random websites to your allowed list for now and then go back at the end of the day/end of week to clean up.
 
 ![How to block 4]({{ site.url }}/img/block4.png){: .center }
@@ -107,7 +107,7 @@ This can be annoying but 95% of the time, it's just the website you opened or th
 
 ![How to block 5]({{ site.url }}/img/block5.png){: .center }
 
-# Now, suck the joy out of the Internet
+# Now, suck the joy out of the Internet 😱
 
 Everything is more exciting in color. It's true. Google it.
 
