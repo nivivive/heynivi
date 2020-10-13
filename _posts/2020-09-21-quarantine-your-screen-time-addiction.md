@@ -27,7 +27,7 @@ There's only one Internet, but infinite ways and reasons to use it. Some good an
 
 But it is possible to untangle that and develop an un-addiction strategy -- one that enables us to be online for only the productive and happy moments, and not one moment more.
 
-![too many apps](img/tt1.jpg){: .center }
+![too many apps]({{ site.url }}/img/tt1.jpg){: .center }
 
 # An ~~addiction?~~ A **habit**!
 We don't just get addicted to cigarettes or drugs.

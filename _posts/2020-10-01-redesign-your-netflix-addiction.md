@@ -40,7 +40,7 @@ Likewise, if you follow Netflix on social media or check out what's new and upco
 
 These notifications can create a craving for you to come back to the app and check out new releases from Netflix. By getting rid of them, you're making it harder to Netflix to steal your attention.
 
-![Disable Netflix notifications](img/netflix1.png){: .center }
+![Disable Netflix notifications]({{ site.url }}/img/netflix1.png){: .center }
 
 ## Delete Netflix (or other streaming apps) from your devices
 Delete the Netflix shortcut on your Chrome New Tabs page. Hide or delete the Netflix app on your phone/tablet.

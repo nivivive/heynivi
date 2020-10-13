@@ -21,7 +21,7 @@ You don't really need any notifications to go on TikTok, especially if you're ad
 ### Easy option 
 At the very least, make sure that the notifications for discovering new content are disabled (everything under Video updates, Live, and Other). That way you're only going on TikTok when you want to, not when the app tells you to.
 
-![Disable new content TikTok notifications](img/tt2.png){: .center .phone }
+![Disable new content TikTok notifications]({{ site.url }}/img/tt2.png){: .center .phone }
 
 ### Hard-core option
 Disable all of them.
@@ -56,7 +56,7 @@ As long as you wear a mask and maintain some social distance, you can still spen
 ### Virtually
 Try hosting a Zoom dance or karaoke party. They're really fun! ([Tips here](https://twitter.com/nivivive/status/1241135840140681221))
 
-![Zoom dance party](img/tt3.jpg){: .center}
+![Zoom dance party]({{ site.url }}/img/tt3.jpg){: .center}
 
 ## Connect with the world outside of TikTok
 Start a new [hobby](https://www.futurelearn.com/info/blog/find-a-new-hobby-lockdown). Whether it's reading more or learning a new language, you can meet new people through the hobbies that you start and connect better that way.
@@ -75,7 +75,7 @@ You can change this by slowing your scroll.
 
 Instead of partially watching one video and move on to the next and the next. You can give each video you watch your full attention until it's done whether you like it or not. And, you'll be satisfied faster.
 
-![slow your scroll](img/tt5.gif){: .center }
+![slow your scroll]({{ site.url }}/img/tt5.gif){: .center }
 
 ## Set a timer before using TikTok
 Decide how long you want to go on TikTok before going on it. Whether its 10 min or even an hour, by determining a time limit beforehand you're making it possible to control your habit. 
@@ -111,7 +111,7 @@ You can get started adopting a simple rule where every 3 videos you watch, you h
 Change your metric for what it means to have a friendship or positive interaction with someone. Instead of it being the # of likes or followers you get, have it be the depth of the interaction. Value the dialogue you have, time spent and lessons learned. These are harder to evaluate as they are intangible, but in the long run, they will also lead to a more enriching life.
 
 Try disabling Likes and New followers from TikTok in Me->...->Push notifications.
-![Disable likes and new followers](img/tt4.png){: .center }
+![Disable likes and new followers]({{ site.url }}/img/tt4.png){: .center }
 
 # P.S.
 If you try out any of these strategies, let [me]({{page.twitter}}) know how it goes!
