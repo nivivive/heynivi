@@ -9,17 +9,10 @@
     {% endfor %}
   </div>
   <div class="footer-item">
-    Get my research in your inbox
+    <a target="_blank" class="twitter-btn" title="Follow @nivivive on Twitter" href="https://twitter.com/intent/follow?screen_name=nivivive">
+      <i class="fa fa-twitter"></i>
+      <span>@nivivive</span>
+    </a>
   </div>
-  <form class="footer-item" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=simplify-with-nivi', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-    <input type="text" placeholder="Your email" name="email"/>
-    <input type="hidden" value="simplify-with-nivi" name="uri"/>
-    <input type="hidden" name="loc" value="en_US"/>
-    <input type="submit" value="Subscribe" />
-  </form>
-  <div class="footer-item">
-    Thanks for visiting!
-    | &copy; {{ site.copyright_name }} {{ site.time | date: '%Y' }}
-    | <a href="https://twitter.com/nivivive">Twitter</a>
-  </div>
+  <div class="footer-item">Thanks for visiting :) </div>
 </div>

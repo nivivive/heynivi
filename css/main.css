@@ -342,7 +342,7 @@ article p {
   color: #777;
   font-size: 14px;
   text-align: center;
-  margin: 10px 0;
+  margin: 15px 0;
 }
 
 img.center {
@@ -354,6 +354,24 @@ img.center {
 iframe.giphy-embed {
   display: block;
   margin: 5px auto;
+}
+
+.twitter-btn {
+  border: 0px;
+  height: 30px;
+  border-radius: 5px;
+  padding: 5px;
+  position: relative;
+  box-sizing: border-box;
+  background-color: #1b95e0;
+  color: #fff;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.twitter-btn:hover {
+  color: #fff;
+  background-color: #0c7abf;
 }
 
  /* 48em = 768px */
