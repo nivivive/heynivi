@@ -117,10 +117,12 @@ In return, you're going to notice how much more exciting everything (especially 
 
 ## On a Macbook
 Go to Settings -> Accessibility -> Color Filters OR search for "Color Filters" in the Settings menu. Now, enable "Color Filters" with the "Grayscale" filter.
+
 ![How to grayscale 1]({{ site.url }}/img/color1.png){: .center }
 
 ## On an iPhone
 Go to Settings -> Accessibility -> Display & Text Size. Scroll down to Color Filters. Now, enable "Color Filters" with the "Grayscale" filter.
+
 ![How to grayscale 2]({{ site.url }}/img/color2.jpeg){: .center .phone }
 
 ## One note:
