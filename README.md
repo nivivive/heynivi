@@ -21,3 +21,6 @@ V2:
 - Separate talks view
 
 Linear gradient bg: background: linear-gradient(to right, #753a88, #cc2b5e); 
+
+# Fix iFrame
+http://plnkr.co/edit/EFP750Fth4PTutwdK56Y?p=preview&preview
