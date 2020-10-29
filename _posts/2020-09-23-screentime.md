@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Quarantine your digital addiction 🙅🏻‍♀️"
+description: "Being intentional with using tech"
 permalink: '/digital-quarantine'
 redirect_from: 
   - '/quarantine-your-screen-time'

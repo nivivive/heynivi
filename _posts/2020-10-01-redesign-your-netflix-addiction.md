@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Re-design your Netflix addiction"
+description: "Your online binge-watching addiction"
 permalink: '/redesign-netflix'
 twitter: "https://twitter.com/nivivive/status/1311725254176202753"
 ---
