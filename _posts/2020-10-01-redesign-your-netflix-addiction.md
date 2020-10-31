@@ -2,6 +2,7 @@
 layout: post
 title: "Re-design your Netflix addiction"
 description: "Your online binge-watching addiction"
+link: "https://letterdrop.co/@tech-with-intention/redesign-your-netflix-addiction"
 permalink: '/redesign-netflix'
 twitter: "https://twitter.com/nivivive/status/1311725254176202753"
 ---
