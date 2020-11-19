@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quarantine your digital addiction 🙅🏻‍♀️"
+title: "Quarantine your time spent online"
 description: "Being intentional with using tech"
 permalink: '/digital-quarantine'
 link: "https://letterdrop.co/@consumer-to-creator/quarantine-your-digital-addiction-"

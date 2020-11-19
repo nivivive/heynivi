@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Re-design your Netflix addiction"
+title: "Replace your Netflix addiction with a better life"
 description: "Your online binge-watching addiction"
 link: "https://letterdrop.co/@consumer-to-creator/redesign-your-netflix-addiction"
 permalink: '/redesign-netflix'
