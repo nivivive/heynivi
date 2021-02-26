@@ -16,7 +16,7 @@ description: <i class="fa fa-heart" aria-hidden="true"></i>
 {% for post in paginator.posts %}
 <div class="article-title">
   <div class="meta">
-    {{ post.date | date: "%b %-d" }}
+    {{ post.date | date: "%b %-d %Y" }}
   </div>
   <a href="{{ post.link }}">
     {{ post.title }}
