@@ -1,7 +1,8 @@
 ---
 layout: page
 ---
-# Never Touched - when children become employee perks
+# Never Touched
+## When children become employee perks
 ## Originally published on [ForgeFiction](https://forgefiction.com/book/quarantinefiction---fictional-stories-143mwz/read/restart-3vc9VT)
 -------------------------------
 
