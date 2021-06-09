@@ -10,16 +10,5 @@ description: <i class="fa fa-heart" aria-hidden="true"></i>
   I write <a href="https://chrome.google.com/webstore/devconsole/2a25d593-27f0-4d44-9a4f-bb2cd0db3ce9/glngaclnhgpkkgmdcdmhfikmoopdhcgn/edit?hl=en" target="_blank">software</a> and <a href="/short">stories</a> to empower people to become their best selves. I love simplifying complex systems and lately I've been obsessed with habits.
 </div>
 <div class="text">
-  I write regularly at <b>Consumer to Creator</b> on being less consumer and more creator. You can check out the latest articles or subscribe down below.
+  I also write essays on <a href="https://creatorhabit.heynivi.com">Creator Habit</a> and stories on <a href="https://uploadinitiated.heynivi.com">Upload Initiated</a>.
 </div>
-<h2>Consumer to Creator</h2>
-{% for post in paginator.posts %}
-<div class="article-title">
-  <div class="meta">
-    {{ post.date | date: "%b %-d %Y" }}
-  </div>
-  <a href="{{ post.link }}">
-    {{ post.title }}
-  </a>
-</div>
-{% endfor %}
