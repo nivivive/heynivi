@@ -473,7 +473,7 @@ var GumroadLink = function() {
         value: function A() {
             this.messageIframe({
                 overlayMethod: "setOverlayParentDomain",
-                overlayArgs: this.origin
+                overlayArgs: window.location.protocol + "//" + window.location.hostname + (window.location.port ? ":" + window.location.port : "") //this.origin
             })
         }
     }, {
