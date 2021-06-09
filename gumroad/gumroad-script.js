@@ -76,7 +76,7 @@ var _get = function get(e, t, i) {
         value: function t() {
             this.environment = "production",
             this[this.environment] = !0,
-            this.origin = window.location.protocol + "//" + window.location.hostname + (window.location.port ? ":" + window.location.port : "")
+            this.origin = 'https://gumroad.com'//window.location.protocol + "//" + window.location.hostname + (window.location.port ? ":" + window.location.port : "")
         }
     }, {
         key: "startNodeAdditionObserver",
@@ -243,8 +243,8 @@ var GumroadLink = function() {
     _createClass(e, [{
         key: "setDomain",
         value: function t() {
-            var e = document.querySelector("script[src*='/js/gumroad.js']");
-            e && (this.domain = new URL(e.src).origin,
+            //var e = document.querySelector("script[src*='/js/gumroad.js']");
+            (this.domain = 'https://gumroad.com',
             this.productMatches.push(this.domain + "/l/"),
             this.productMatches = [].concat(_toConsumableArray(new Set(this.productMatches))))
         }
