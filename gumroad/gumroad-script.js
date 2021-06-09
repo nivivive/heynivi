@@ -76,7 +76,7 @@ var _get = function get(e, t, i) {
         value: function t() {
             this.environment = "production",
             this[this.environment] = !0,
-            this.origin = 'https://gumroad.com'//window.location.protocol + "//" + window.location.hostname + (window.location.port ? ":" + window.location.port : "")
+            this.origin = 'https://gumroad.com'
         }
     }, {
         key: "startNodeAdditionObserver",
@@ -167,7 +167,19 @@ var GumroadLink = function() {
                     r.src = this.manager.domain + "/products/" + this.vars.permalink + "/default_cover",
                     this.element.insertBefore(r, this.element.firstChild)
                 }
-                this.element.getAttribute("data-gumroad-single-product") && (this.manager.isSingleProductMode = !0),
+
+                if (this.element.getAttribute("data-gumroad-early-load")) {
+                  this.element.onmouseover = function() {
+                    if (!this.loadedPage) {
+                      var x = document.createElement("link");
+                      x.rel = "prerender";
+                      x.href = t.element.href;
+                      document.getElementsByTagName('head')[0].appendChild(x)
+                      this.loadedPage = true
+                    }
+                  }
+                }
+                this.element.getAttribute("data-gumroad-single-product") && (this.manager.isSingleProductMode = true),
                 this.origin !== this.manager.domain && (this.element.target = "_blank"),
                 this.element.onclick = function(e) {
                     e.preventDefault(),
@@ -243,7 +255,6 @@ var GumroadLink = function() {
     _createClass(e, [{
         key: "setDomain",
         value: function t() {
-            //var e = document.querySelector("script[src*='/js/gumroad.js']");
             (this.domain = 'https://gumroad.com',
             this.productMatches.push(this.domain + "/l/"),
             this.productMatches = [].concat(_toConsumableArray(new Set(this.productMatches))))
@@ -473,7 +484,7 @@ var GumroadLink = function() {
         value: function A() {
             this.messageIframe({
                 overlayMethod: "setOverlayParentDomain",
-                overlayArgs: window.location.protocol + "//" + window.location.hostname + (window.location.port ? ":" + window.location.port : "") //this.origin
+                overlayArgs: window.location.protocol + "//" + window.location.hostname + (window.location.port ? ":" + window.location.port : "")
             })
         }
     }, {
