@@ -23,3 +23,5 @@ whitelist:
   - jekyll-redirect-from
 
 gems: [jekyll-paginate, jekyll-feed]
+
+theme: jekyll-theme-minimal
