@@ -136,7 +136,7 @@ article p {
 img.center {
   display: block;
   margin: 0 auto;
-  max-width: 300px;
+  max-width: 100%;
 }
 
  /* 48em = 768px */
