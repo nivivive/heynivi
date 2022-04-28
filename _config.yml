@@ -1,20 +1,8 @@
 # Site settings
 title: Nivi Jayasekar
 alt_title: Nivi
-tagline: Consumer to Creator, a weekly newsletter on being less consumer and more creator
-description: Consumer to Creator, a weekly newsletter on being less consumer and more creator
-email: jnive05@gmail.com
-twitter:
-  username: nivivive
-  card: summary
-copyright_name: Nivi Jayasekar
 baseurl: ""
 url: "https://heynivi.com"
-excerpt_separator: <!--more-->
-collections:
-  products:
-    output: true
-    permalink: /:name
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
