@@ -4,6 +4,7 @@ title: "Replace your Netflix addiction with a better life"
 description: "Your online binge-watching addiction"
 link: "https://letterdrop.co/@consumer-to-creator/redesign-your-netflix-addiction"
 permalink: '/redesign-netflix'
+type: "essay"
 twitter: "https://twitter.com/nivivive/status/1311725254176202753"
 ---
 

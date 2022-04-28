@@ -2,6 +2,7 @@
 layout: post
 title: "Why am I writing"
 permalink: '/why-am-i-writing'
+type: "essay"
 link: "https://letterdrop.co/@consumer-to-creator/why-am-i-writing"
 ---
 
