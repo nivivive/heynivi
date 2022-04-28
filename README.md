@@ -1,7 +1,6 @@
 # README
 
-## Setup
-- Jekyll environment
+## Setup - Jekyll environment
 bundle exec jekyll serve --watch
 
 ## Deploy
