@@ -1,21 +1,16 @@
 <!-- Navigation -->
 <header class="header">
-  <a href="/" class="logo p-2">Nivi Jayasekar</a>
-  <input class="menu-btn" type="checkbox" id="menu-btn" />
-  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
-  <ul class="menu">
-    {% for item in site.pages %}
-      {% if item.title and item.title == page.title %}
-      <li class="active"><a class="active" href="{{ item.url | prepend: site.baseurl }}">{{item.title}}</a>
-      {% elsif item.title %}
-      <li><a href="{{ item.url | prepend: site.baseurl }}">{{item.title}}</a></li>
-      {% endif %}
-    {% endfor %}
-    <li>
-    <a target="_blank" title="Follow @nivivive on Twitter" href="https://twitter.com/intent/follow?screen_name=nivivive">
-      <i class="fa fa-twitter"></i>
-      <span>nivivive</span>
-    </a>
-    </li>
-  </ul>
+  <div>
+  {% assign sortedPages = site.pages | where:"nav_type","page" | sort:"order" %}
+  {% for item in sortedPages %}
+    {% if forloop.first == false %}
+     :: 
+    {% endif %}
+    {% if item.title == page.title %}
+    <a class="active" href="{{ item.url | prepend: site.baseurl }}">{{item.title}}</a>
+    {% elsif item.title %}
+    <a href="{{ item.url | prepend: site.baseurl }}">{{item.title}}</a>
+    {% endif %}
+  {% endfor %}
+  </div>
 </header>

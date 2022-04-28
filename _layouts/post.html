@@ -13,17 +13,4 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="meta">{{ page.date | date: "%b %d, %Y" }} · {{ read-time }}</span>
   {{ content }}
-  {% if page.tweet_id %}
-  <h2>Discuss on Twitter</h2>
-  <blockquote class="twitter-tweet" data-lang="en" data-theme="light">
-    <p lang="en" dir="ltr">
-      {{page.tweet_snippet}}
-    </p>
-    &mdash; Nivi Jayasekar (@nivivive)
-    <a href="https://twitter.com/nivivive/status/{{page.tweet_id}}?ref_src=twsrc%5Etfw">
-      {{page.date | date: "%B %d, %Y"}}
-    </a>
-  </blockquote>
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  {% endif %}
 </article>
