@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What if kids company owned property?"
+title: "What if kids were company-owned?"
 permalink: '/what-if-kids-were-company-owned'
 type: "story"
 ---
